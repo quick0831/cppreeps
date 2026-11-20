@@ -10,6 +10,6 @@
   "license": "MIT",
   "dependencies": {
     "grunt": "^1.0.1",
-    "grunt-screeps": "github:screeps/grunt-screeps#binary-upload"
+    "grunt-screeps": "github:screeps/grunt-screeps"
   }
 }

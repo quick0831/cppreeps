@@ -1,2 +1,4 @@
 /build
 /dist
+.screeps.json
+node_modules/
